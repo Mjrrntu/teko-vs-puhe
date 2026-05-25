@@ -1,0 +1,6 @@
+{
+  "error": true,
+  "status": 400,
+  "url": "https://avoindata.eduskunta.fi/api/v1/tables/SaliDBAanestysEdustaja/rows?page=0&perPage=200&columnName=AanestysId&columnValue=13259",
+  "body": "{\"message\":\"perPage limited to maximum of 100 rows.\"}"
+}

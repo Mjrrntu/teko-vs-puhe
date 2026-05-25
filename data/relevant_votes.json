@@ -1,0 +1,20 @@
+[
+  {
+    "id": "poc-001",
+    "date": "2025-03-12",
+    "title": "Esimerkki: asumistuen leikkaus",
+    "theme": "Pienituloiset",
+    "public_line": "Vahvasti puolesta",
+    "expected_vote": "ei",
+    "reason": "Äänestys koski pienituloisiin kohdistuvan tuen heikentämistä.",
+    "source_url": "https://www.eduskunta.fi/",
+    "party_votes": {
+      "SDP": "ei",
+      "KOK": "jaa",
+      "PS": "jaa",
+      "KESK": "ei",
+      "VAS": "ei",
+      "VIHR": "ei"
+    }
+  }
+]
