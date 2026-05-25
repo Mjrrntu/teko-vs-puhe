@@ -1,0 +1,38 @@
+[
+  {
+    "id": "poc-001",
+    "date": "2025-03-12",
+    "title": "Esimerkk äänestys: asumistuen leikkaus",
+    "theme": "pienituloiset",
+    "supports_low_income": false,
+    "expected_vote": "ei",
+    "reason": "Äänestys koski pienituloisiin kohdistuvan tuen heikentämistä.",
+    "source_url": "https://www.eduskunta.fi/",
+    "party_votes": {
+      "SDP": "ei",
+      "KOK": "jaa",
+      "PS": "jaa",
+      "KESK": "ei",
+      "VAS": "ei",
+      "VIHR": "ei"
+    }
+  },
+  {
+    "id": "poc-002",
+    "date": "2025-04-10",
+    "title": "Esimerkk äänestys: toimeentulotuen parannus",
+    "theme": "pienituloiset",
+    "supports_low_income": true,
+    "expected_vote": "jaa",
+    "reason": "Äänestys koski pienituloisten taloudellisen aseman parantamista.",
+    "source_url": "https://www.eduskunta.fi/",
+    "party_votes": {
+      "SDP": "jaa",
+      "KOK": "ei",
+      "PS": "ei",
+      "KESK": "jaa",
+      "VAS": "jaa",
+      "VIHR": "jaa"
+    }
+  }
+]
