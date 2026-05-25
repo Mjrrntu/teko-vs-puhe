@@ -100,6 +100,7 @@ def print_summary(stats):
     print("# Kysymys: tuetaanko pienituloisia?")
     print()
     print("Analyysi perustuu käsin valittuihin ja perusteltuihin eduskunnan äänestyksiin.")
+    print("Huom: POC-versio. Yhteenveto perustuu pieneen käsin valittuun aineistoon, eikä sitä pidä tulkita kattavana puoluearviona.")
     print()
     print("| Puolue | Julkinen linja | Äänestyslinja | Konsistenssi | Todisteet |")
     print("|---|---|---|---|---|")

@@ -1,18 +1,20 @@
 [
   {
-    "id": "poc-001",
-    "date": "2025-03-12",
-    "title": "Esimerkki: asumistuen leikkaus",
+    "id": "1/71/2023",
+    "date": "2023-12-05",
+    "title": "HE 58/2023 vp – toimeentulotuen asumismenojen kiristäminen",
     "theme": "Pienituloiset",
-    "public_line": "Vahvasti puolesta",
+    "public_line": "Pienituloisten tukeminen",
     "expected_vote": "ei",
-    "reason": "Äänestys koski pienituloisiin kohdistuvan tuen heikentämistä.",
-    "source_url": "https://www.eduskunta.fi/",
+    "why_relevant": "Toimeentulotuki ja asumismenot kohdistuvat erityisesti pienituloisiin kotitalouksiin.",
+    "reason": "Esityksen tavoitteena oli tiukentaa asumismenojen huomioimista toimeentulotuessa ja hakea säästöjä sosiaaliturvasta.",
+    "source_url": "https://www.eduskunta.fi/asiat-ja-aanestykset/asian-aanestykset/HE%2058%2F2023%20vp?id=1%2F71%2F2023",
     "party_votes": {
-      "SDP": "ei",
       "KOK": "jaa",
       "PS": "jaa",
-      "KESK": "ei",
+      "RKP": "jaa",
+      "KD": "jaa",
+      "SDP": "ei",
       "VAS": "ei",
       "VIHR": "ei"
     }
